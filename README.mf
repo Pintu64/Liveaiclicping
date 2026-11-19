@@ -1,0 +1,12 @@
+# LIVECLIP AI
+
+AI-powered YouTube livestream clipping platform.
+
+Features:
+- Live stream monitoring
+- AI funny and hype moment detection
+- Automatic 30–45 second clips
+- Facecam + gameplay split screen
+- Automatic subtitles
+- 9:16 video export
+- YouTube Shorts and Reels support
